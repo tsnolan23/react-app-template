@@ -3,6 +3,9 @@ const Urls = {
     root: "/",
     app: "/app",
   },
+  api: {
+    posts: "/api/posts",
+  },
 };
 
 export default Urls;

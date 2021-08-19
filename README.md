@@ -7,7 +7,9 @@ This template is just an extension to the standard `create-react-app` applicatio
 - Tailwind
 - TypeScript
 - Authentication with Auth0
+- React Query + Axios
 - Additional linting
+- Netlify deploy scripts
 
 ---
 
